@@ -1,0 +1,510 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Federant&family=Merriweather+Sans:wght@300&family=Shadows+Into+Light&family=Teko:wght@300&display=swap');
+.a{
+    height: 1991px;
+    
+    
+    position: relative;
+    background: rgb(16,17,18);
+background: linear-gradient(90deg, rgba(16,17,18,1) 1%, rgba(49,53,56,1) 48%, rgba(133,132,76,1) 100%);
+}
+.a1{
+    /* border: 3px solid #abac9d; */
+    height: 419px;
+   
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 22px;
+  
+    
+}
+.i1{
+    width: 330px;
+    height: 370px;
+    border: #52524c 15px solid;
+    border-radius:78px;
+    margin-top: 12px;
+    margin-left: 111px;
+  
+    
+}
+.a2{
+    margin-left: 169px;
+    
+    
+    font-weight: bolder;
+    color: #686161;
+}
+
+@media(max-width:700px){
+    .a{
+        width: 100%;
+        height: 3903px;
+        position: relative;
+    }
+    .a1{
+        margin-left: 50px;
+        height: 735px;
+        position: absolute;
+    }
+    
+}
+.s1{
+    color: rgb(92, 141, 13);
+    font-family: ;
+    
+}
+.a3{
+    margin-top: 23px;
+    margin-left: 169px;
+    font-weight: 500;
+}
+.a4{
+    top: 537px;
+    position: absolute;
+    left: 649px;
+    font-weight: 900;
+    font-size: xx-large;
+    color: #f8fadb;
+}
+.a5{
+    border:#abac9d 3px solid;
+    height: 385px;
+   
+    top: 585px;
+    position: absolute;
+    left: 189px;
+    border-radius: 22px;
+}
+
+@media(max-width:700px){
+   .a5{
+    width: 10px;
+    margin-left: 50px;
+    margin-top: 822px;
+
+   }
+   .a2{
+    margin-left: -12px;
+    margin-top: -50px;
+   
+   }
+   .a3{
+    margin-left: 25px;
+    margin-top: -14px;
+    width: 242px;
+    font-size: small;
+   }
+   .a1{
+    width: 100%;
+    
+   }
+   .i1{
+    
+        height: 260px;
+        width: 232px;
+        margin-left: 66px;
+        border-radius: 3px;
+
+    }
+    
+   
+}
+
+
+
+.btn1{
+    width: 130px;
+    height: 50px;
+    color:rgb(171, 166, 166);
+    font-weight: 600;
+    background-color: transparent;
+    border-radius: 150px;
+    border: 2px solid #5da20e ;
+    margin-left:188px ;
+    margin-top: -7px;
+}
+
+.btn1:hover{
+    background-color: #5da20e ;
+    color: white;
+}
+.row2{
+    float: left;
+    position: relative;
+   
+    
+}
+.card1{
+    width:10px;
+    height: 88px;
+    
+    position: absolute;
+    /* border: 2px rgb(198, 170, 32) solid; */
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+    
+
+}
+.i2{
+    width: 100%;
+    height: 49px;
+}
+.card2{
+    width: 100px;
+    height: 88px;
+    /* border: 2px rgb(183, 210, 119) solid; */
+    position: absolute;
+    left: 264px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+}
+.card3{
+     width: 100px;
+    height: 88px;
+    /* border: 2px rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 483px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+   
+}
+.card4{
+    width: 100px;
+    height: 88px;
+    /* border: 2px rgb(183, 210, 119) solid; */
+    position: absolute;
+    left: 657px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6) ;
+
+}
+.card5{
+    width: 100px;
+    height: 88px;
+    /* border: 2px  rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 923px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+
+}
+.card11{
+    width: 100px;
+    height: 88px;
+    /* border: 2px  rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 48px;
+    top: 174px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+
+}
+.card12{
+    width: 100px;
+    height: 88px;
+    /* border: 2px  rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 264px;
+    top: 174px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+
+}
+.card13{
+    width: 100px;
+    height: 88px;
+    /* border: 2px  rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 483px;
+    top: 174px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+
+}
+.card14{
+    width: 100px;
+    height: 88px;
+    /* border: 2px  rgb(198, 170, 32) solid; */
+    position: absolute;
+    left: 700px;
+    top: 174px;
+    box-shadow: 16px 12px 2px rgb(11, 14, 6);
+
+}
+
+
+
+
+.hh{
+    text-shadow: -4px -2px 4px rgb(202, 211, 19);
+    color: white;
+}
+@media(max-width:700px){
+    .a5{
+        top: 952px;
+        left: 50px;
+        height: 970px;
+    }
+    .card1{
+        left:-41px;
+    }
+    .card2{
+        left: 137px;
+    }
+    .card3{
+        top:200px;
+        left: 7px;
+
+    } .card4{
+        top:200px;
+        left: 89px;
+
+    }
+    .card5{
+        top:395px;
+        left: 5px;
+
+    }
+    .card11{
+        top:395px;
+        left: 137px;
+    }
+    .card12{
+        top:585px;
+        left: 6px;
+    }
+    .card13{
+        top:585px;
+        left: 137px;
+    }
+    .card14{
+        top:777px;
+        left: 7px;
+    }
+    
+    .a4{
+        
+            margin-top: 369px;
+            margin-left: -536px;
+        }
+    .btn1{
+        margin-left: 50px;
+        margin-top: 7px;
+    }
+    
+
+}
+.aa{
+    top: 1020px;
+    position: absolute;
+    left: 649px;
+    font-weight: 900;
+    font-size: xx-large;
+    color: #f8fadb;
+}
+.ab{
+    /* border:#abac9d 3px solid; */
+    height: 385px;
+   
+    top: 1049px;
+    position: absolute;
+    left: 189px;
+    border-radius: 22px;
+}
+
+
+@media(max-width:700px){
+    .aa{
+        margin-left: -556px;
+        margin-top: 960px;
+
+    
+    }
+    .ab{
+        margin-left:-137px;
+        margin-top: 999px;
+
+    }
+
+}
+.bb{
+    top: 1541px;
+    position: absolute;
+    left: 649px;
+    font-weight: 900;
+    font-size: xx-large;
+    color: #f8fadb;
+
+} 
+.card6{
+    /* border: 10px rgb(106, 114, 97) solid; */
+    height: 400px;
+    float: left;
+    margin-left: 60px;
+    box-shadow: 6px -8px 6px rgb(31, 35, 24);
+   
+} 
+.card7{
+    /* border: 10px rgb(106, 114, 97) solid; */
+    height: 400px;
+    float: left;
+    margin-left: 60px;
+    box-shadow: 6px -8px 6px rgb(31, 35, 24);
+   
+} 
+.card8{
+    /* border: 10px rgb(106, 114, 97) solid; */
+    height: 400px;
+    float: left;
+    margin-left: 60px;
+    box-shadow: 6px -8px 6px rgb(31, 35, 24);
+   
+} 
+.qq{
+    margin-left: 79px;
+    background-color: #5f8443;
+    color: black;
+    text-decoration: none;
+    padding: 6px 9px;
+    border-radius: 9px;
+    
+}  
+.iq{
+    filter: blur(2px);
+    height: 140px;
+}
+.nn{
+   font-size: 16px;
+   line-height: 25px;
+   margin: 40px 0;
+   font-weight: 400;
+}
+.card6:hover{
+    cursor: pointer;
+    transform: scale(1.0699);
+    /* margin-top: 19px; */
+    
+
+}
+.card7:hover{
+    cursor: pointer;
+    transform: scale(1.0699);
+    /* margin-top: 19px; */
+
+}
+.card8:hover{
+    cursor: pointer;
+    transform: scale(1.0699);
+    /* margin-top: 19px; */
+
+    
+
+}
+@media(max-width:700px){
+    .card6{
+        margin-left: -11px;
+        margin-top: 935px;
+    }
+    .card7{
+        margin-left: -11px;
+        margin-top: 60px;
+    }.card8{
+        margin-left: -11px;
+        margin-top: 73px;
+    }
+    .bb{
+        margin-left: -553px;
+        margin-top: 1900px;
+        color: #f8fadb;
+
+    }
+    .rr{
+        margin-top: 1919px;
+    }
+    .card6:hover{
+        cursor: pointer;
+        transform: scale(1.0099);
+        /* margin-top: 19px; */
+        
+    
+    }
+    .card7:hover{
+        cursor: pointer;
+        transform: scale(1.0099);
+        /* margin-top: 19px; */
+    
+    }
+    .card8:hover{
+        cursor: pointer;
+        transform: scale(1.0099);
+        /* margin-top: 19px; */
+    
+        
+    
+    }
+
+}
+.rr{
+    height: 350px;
+    /* border: 3px solid black; */
+    position: absolute;
+    top: 1600px;
+}
+.tt1{
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.tt2{
+    margin-left:276px ;
+}
+.tt3{
+    margin-left:250px ;
+    color: white;
+
+}
+.tt4,.tt6{
+    margin-left:276px ;
+
+}
+.tt5{
+    margin-left:250px ;
+   
+
+}
+.tt7{
+    text-decoration: none;
+    margin-left: 725px;
+}
+.tt1,.tt5,.tt3{
+    text-decoration: none;
+}
+@media(max-width:700px){
+    .tt1,.tt5,.tt3{
+        margin-left: 10px;
+
+    }
+    .tt2,.tt4,.tt6{
+        margin-left: 10px;
+    }
+    .tt7{
+        margin-left: 151px;
+    }
+    .s1{
+        font-size: 54px;
+    }
+}  
+.a2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-size: 80px;
+}
+.s1{
+    font-family: 'Merriweather Sans', sans-serif;
+
+
+}
+
+
+        
+
+
+
+
+
+
+  
+  
+  
+  
