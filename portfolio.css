@@ -446,16 +446,15 @@ background: linear-gradient(90deg, rgba(16,17,18,1) 1%, rgba(49,53,56,1) 48%, rg
     margin-left: 250px;
     margin-top: 30px;
 }
-.tt2{
-    margin-left:276px ;
-}
+
 .tt3{
     margin-left:250px ;
     color: white;
 
 }
-.tt4,.tt6{
+.tt2,.tt4,.tt6{
     margin-left:276px ;
+    color: #abac9d;
 
 }
 .tt5{
